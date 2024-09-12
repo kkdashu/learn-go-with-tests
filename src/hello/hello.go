@@ -24,7 +24,7 @@ func greetingPrefix(language string) string {
 	case "Spanish":
 		prefix = spanishHelloPrefix
 	}
-  return prefix  
+  return prefix
 }
 
 func main() {
